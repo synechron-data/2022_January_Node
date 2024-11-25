@@ -1,0 +1,27 @@
+RDBMS / ORDBMS				NO SQL
+
+Database				Database
+
+Table					Collection
+
+Rows					Documents
+
+Columns					Fields
+
+Primary Key				Primary Key (Default _id)
+
+JOIN					Embedded Documents
+
+SQL Commands				MongoDB API's
+
+Background Service			Background Service (mongod CLI)
+
+SQL Plus / SSMS				Compass / mongo CLI
+
+
+As a Developer
+
+Native Drivers				MongoDB / Monk (NPM Package)
+(JDBC/ODBC/OLEDB)
+
+ORM (Hibernate, EF)			ODM (Mongoose)
